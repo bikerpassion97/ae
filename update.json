@@ -3,7 +3,7 @@
     "app_beta_status": false,
     "game_version": "16.4",
     "game_url": "http://gvn.dichvu360.com/sampalyn/e.apk",
-    "samp_list_url": "https://gvn.dichvu360.com/sampalyn/samp_list.json",
-    "full_list_url": "https://gvn.dichvu360.com/sampalyn/full_list.json",
-    "lite_list_url": "https://gvn.dichvu360.com/sampalyn/lite_list.json"
+    "samp_list_url": "https://alynsampmobile.pro//api/game-files-list?type=samp",
+    "full_list_url": "https://alynsampmobile.pro//api/game-files-list?type=full",
+    "lite_list_url": "https://alynsampmobile.pro//api/game-files-list?type=lite"
 }
